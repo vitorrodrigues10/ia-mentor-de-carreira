@@ -5,4 +5,5 @@ Basta utilizar, em dois chats diferentes, cada um dos promtps nos arquivos acima
 Para este exemplo, utilizei o Google Gemini, o link de conversas exemplo geradas segue abaixo.
 
 Agente 1: https://gemini.google.com/share/76048cbf882b
+
 Agente 2: https://gemini.google.com/share/07cbdd530742
